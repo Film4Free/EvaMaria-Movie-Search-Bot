@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/TeamEvamaria')
+                InlineKeyboardButton('🤖 Updates', url='https://t.me/+xJxBiuMIvS9mNGY1')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/angelmariav2bot?start=help"),
@@ -40,7 +40,7 @@ async def start(client, message):
             InlineKeyboardButton('👨‍👨‍👧 Join Group', url='https://t.me/+RVUzWLee4lxiYWNl')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/EvaMariaUpdates')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/+xJxBiuMIvS9mNGY1')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -81,7 +81,7 @@ async def start(client, message):
             InlineKeyboardButton('👨‍👨‍👧 Join Group', url='https://t.me/+RVUzWLee4lxiYWNl')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/EvaMariaUpdates')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/+xJxBiuMIvS9mNGY1')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
