@@ -39,7 +39,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('👨‍👨‍👧 Join Group', url='https://t.me/+RVUzWLee4lxiYWNl')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('👨‍💻 Creator', url='https://t.me/being_ramesh'),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/+xJxBiuMIvS9mNGY1')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
@@ -80,7 +80,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('👨‍👨‍👧 Join Group', url='https://t.me/+RVUzWLee4lxiYWNl')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('👨‍💻 Creator', url='https://t.me/being_ramesh'),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/+xJxBiuMIvS9mNGY1')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
